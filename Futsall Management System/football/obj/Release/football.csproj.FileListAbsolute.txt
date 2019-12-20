@@ -1,0 +1,58 @@
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\football.exe.config
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\football.exe
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\football.pdb
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.EventBoking.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.EventPayment.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Form2.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Keys.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Login.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.main_form.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Properties.Resources.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Team_Registration.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.Event.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.View_Event.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.exe
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Release\football.pdb
+D:\My device\Projects\Futsall Management System\football\bin\Release\football.exe.config
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.exe
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.pdb
+D:\My device\Projects\Futsall Management System\football\bin\Release\football.exe
+D:\My device\Projects\Futsall Management System\football\bin\Release\football.pdb
+D:\My device\Projects\Futsall Management System\football\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Smo.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Dmf.Common.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.RegSvrEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Release\Microsoft.SqlServer.SqlTDiagM.dll
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.csprojResolveAssemblyReference.cache
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.EventBoking.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.EventPayment.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.Keys.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.Login.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.main_form.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.Properties.Resources.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.Team_Registration.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.Event.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.View_Event.resources
+D:\My device\Projects\Futsall Management System\football\obj\Release\football.csproj.GenerateResource.Cache

@@ -1,0 +1,135 @@
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.Form1.resources
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.main_form.resources
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.Properties.Resources.resources
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.csproj.GenerateResource.Cache
+c:\users\wve\documents\visual studio 2013\Projects\football\football\bin\Debug\football.exe.config
+c:\users\wve\documents\visual studio 2013\Projects\football\football\bin\Debug\football.exe
+c:\users\wve\documents\visual studio 2013\Projects\football\football\bin\Debug\football.pdb
+c:\users\wve\documents\visual studio 2013\Projects\football\football\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.exe
+c:\users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.pdb
+C:\Users\wve\Documents\Visual Studio 2013\Projects\football\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\wve\documents\visual studio 2013\Projects\football\football\obj\Debug\football.Booking.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\bin\Debug\football.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\bin\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\bin\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.Booking.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.main_form.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\football\football\obj\Debug\football.csproj.GenerateResource.Cache
+F:\football\football\bin\Debug\football.exe.config
+F:\football\football\obj\Debug\football.exe
+F:\football\football\obj\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\bin\Debug\football.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\bin\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\bin\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\futsall.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.Form2.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.Login.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.main_form.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\shankar\football\bin\Debug\football.exe.config
+C:\Users\hp\Desktop\shankar\football\obj\Debug\football.exe
+C:\Users\hp\Desktop\shankar\football\obj\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\bin\Debug\football.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\bin\Debug\football.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\bin\Debug\football.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\futsall.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.Form2.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.Login.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.main_form.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\shankar 1\football\obj\Debug\football.Form3.resources
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\football.exe.config
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\football.exe
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\football.pdb
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.Form1.resources
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.Form2.resources
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.Login.resources
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.main_form.resources
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.exe
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.pdb
+C:\Users\hp\Desktop\shankar 1\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\shankar 1\football\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\football.exe.config
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\football.exe
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\football.pdb
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hp\Desktop\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.EventBoking.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.EventPayment.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Form2.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Login.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.main_form.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Team_Registration.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Event.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.View_Event.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.exe
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.pdb
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.Keys.resources
+C:\Users\hp\Desktop\Futsall Management System\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+D:\My device\Projects\Futsall Management System\football\bin\Debug\football.exe.config
+D:\My device\Projects\Futsall Management System\football\bin\Debug\football.exe
+D:\My device\Projects\Futsall Management System\football\bin\Debug\football.pdb
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\My device\Projects\Futsall Management System\football\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.csprojResolveAssemblyReference.cache
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.EventBoking.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.EventPayment.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.Keys.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.Login.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.main_form.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.Properties.Resources.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.Team_Registration.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.Event.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.View_Event.resources
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.csproj.GenerateResource.Cache
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.exe
+D:\My device\Projects\Futsall Management System\football\obj\Debug\football.pdb
